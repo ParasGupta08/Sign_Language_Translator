@@ -206,13 +206,3 @@ python inference.py
 - Re-collect data if accuracy is low — the model is only as good as the training clips
 
 ---
-
-## 🤝 Contributing
-
-Pull requests are welcome. To add new signs, update the `SIGNS` list in `config.py`, re-collect data, and retrain.
-
----
-
-## 📄 License
-
-This project is open source. Feel free to use and modify it for educational and research purposes.
